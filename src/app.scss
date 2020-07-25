@@ -1,0 +1,16 @@
+.main-wrapper {
+  height: 100%;
+  width: 100%;
+
+  .header-class {
+    height: 100px;
+  }
+
+  .body-class {
+    height: calc(100vh - 220px);
+  }
+
+  .footer-class {
+    height: 100px;
+  }
+}
